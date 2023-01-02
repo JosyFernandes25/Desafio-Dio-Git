@@ -3,7 +3,9 @@
 #### Oque encontrará neste repósitório:
 **🎯 Documentação descritiva do passo a passo para uso do git, conectando seu reposítório local com o reposítório remoto (GitHub) através de comandos pré-definidos de escrita.**
 
-**_Acesse: https://github.com/JosyFernandes25/desafioDioGit/blob/main/Comandos%20do%20Git.docx_**
+**_Acesse:_**
+
+**_https://github.com/JosyFernandes25/desafioDioGit/blob/main/Comandos%20do%20Git.docx_**
 
 
 **🎯 Anotações sobre informações relevantes do uso do Git e GitHub, para apoio em estudos e pesquisas do tema.**
